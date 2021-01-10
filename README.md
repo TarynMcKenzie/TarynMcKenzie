@@ -1,16 +1,27 @@
-### Hi there 👋
+<!-- Actual text -->
 
-<!--
-**TarynMcKenzie/TarynMcKenzie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Here is what I know according to Github 👇🏻
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarynMcKenzie&layout=compact)](https://github.com/TarynMcKenzie/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Here is what I actually know 👇🏻
+  
+  * How to break things
+  * How to fix the broken things
+  * How to test it to make sure it doesnt happen again
+  
+  Lastly,
+  
+  * How to do it all with good humor
+
+
+
+## Here is where you can find me elsewhere 👇🏻
+
+You can find me on [Linkedin][1].
+
+<!-- Links to social media accounts -->
+
+[1]: https://www.linkedin.com/in/tarynmckenzie/
