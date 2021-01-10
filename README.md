@@ -2,7 +2,7 @@
 
 ## Here is what I know according to Github 👇🏻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarynMcKenzie&layout=compact)](https://github.com/TarynMcKenzie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarynMcKenzie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -10,7 +10,7 @@
   
   * How to break things
   * How to fix the broken things
-  * How to test it to make sure it doesnt happen again
+  * How to test it to make sure it doesn't happen again
   
   Lastly,
   
